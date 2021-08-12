@@ -1,0 +1,503 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+*
+.wake{
+    margin-top:0px;
+    width:100%;
+    height:9%;
+    background-image:url(mohit.png);
+    background-size:cover;
+
+  }
+
+  .wake > ul{
+    background-color:#9B72AA;
+    margin:15px 15px;
+    padding:20px 20px;
+  }
+
+.wake ul{
+    list-style:none;
+    margin:0;
+    padding:0px 40px;
+    float:left;
+    position:absolute;
+}  
+.wake ul a{
+    text-decoration:none;
+    display:block;
+    color:black;
+    font-weight:700;
+    font-size:20px;
+    line-height:32px;
+    margin:0;
+    padding:20px 102px;
+}
+
+.wake ul li
+  {  
+    position:relative;
+    float:left;
+    margin:0;
+    padding:0;
+    border:0px solid black;
+  }
+
+  .wake ul li.active
+  {
+    background-color:#00a8ff;
+  }
+
+  .wake ul li:hover
+  {
+    
+    background-color: #00a8ff;
+  }
+
+  #navigation{
+    background-color:#368B85 ;
+    width:200px ;
+    height:100% ;
+    position: fixed;
+    left: -200px;
+    transition: all 400ms linear;
+    list-style:none;
+    text-decoration: none;
+}
+
+  #navigation ul li{
+    color: black;
+    list-style: none;
+    padding: 15px 9px;
+    border-bottom: 1px solid white;
+    text-decoration: none;
+}
+
+#navigation .toggle{
+    position: absolute;
+    left: 230px;
+    top: 20px;
+
+}
+
+#navigation .toggle span{
+    width: 30px;
+    height: 5px;
+    background-color:#0F52BA;
+    display: block;
+    margin: 5px 0px;
+}
+
+#navigation.active{
+    left: 0px;
+}
+#navigation ul li:hover{
+    background-color:#053742;
+}
+
+#navigation ul li a{
+    color: honeydew;
+    text-decoration: none;
+    
+}
+
+.web
+{
+    background-image:url(Images/salaaad.png);
+    width:100%;
+    height:900px;
+    background-size:cover; 
+    margin-top:0px;
+  
+}
+.salaad
+{
+    font-size:130px;
+    padding:240px 85px;
+    color:white;
+    margin-top:10 ;
+}
+.h3
+{ 
+    padding:10px 150px;
+    color:white; 
+    font-size:30px;
+    margin:-230px -65px;
+     
+}
+
+.p
+{
+    padding:300px 85px;
+    font-size:20px;
+    color:white;
+    margin:-230px -65px;
+}
+
+.deev
+{
+    background-color:white;
+    width:100%;
+    height:900px;
+}
+.p1
+{
+    color:black;
+    font-size:25px;
+    padding:50px 100px;
+}
+
+.h1
+{
+    font-size:80px;
+    color:black;
+    padding:30px 100px;
+    margin:-70px -5px;
+}
+
+.pear
+{
+    margin: 100px 110px;
+    font-size: 25px;
+}
+
+.Di{
+    float:right;
+    margin:-215px 25px;
+    font-size: 25px;
+}
+
+.FARM
+{
+    margin:-50px 110px;
+    font-size: 25px;
+    padding:-150px 5px;
+}
+
+.KALE
+{
+    float:right;
+    margin:-50px 130px;
+    font-size:25px;
+    
+}
+
+.GNUD
+{
+    font-size:25px;
+    margin:100px 110px;
+
+}
+
+.RELLT
+{
+    float:right;
+    margin:-210px 76px;
+    font-size:25px;
+}
+.table1
+{
+    margin: 100px 150px;
+    font-size:20px;
+    
+}
+
+.table2
+{ 
+    margin: 70px 150px;
+
+}
+.table3
+{
+    float: right;
+    margin: -600PX 150PX;
+
+}
+.table4
+{
+    float: right;
+    margin:-300px 150px;
+}
+
+.patel
+{
+    padding-bottom:30px;
+}
+
+.Gurjar
+{
+     background-color:white;
+     margin:600px 140px;
+     padding:1000px 150px;
+}
+
+.Gurjar1
+{
+    padding:40px 140px;
+    font-size:30px;
+    background-color:white;
+    
+}
+
+.Gurjar2
+{
+    float:right;
+    padding:-600px 1200px;
+    font-size:30px;
+    margin:-208px 50px;
+}
+
+.Gurjar3
+{
+    padding:100px 140px;
+    font-size:30px;
+}
+
+.Gurjar4
+{
+   float:right;
+   margin:-270px 50px;
+   font-size:30px;
+}
+
+.KAL
+{
+    font-size:35px;
+    color:black;
+    padding:50px 230px;
+
+}
+
+.span
+{
+    width: 100px;
+    height: 20px;
+    background-color:yellow;
+    display: block;
+    margin: 5px 230px 70px;
+    padding-bottom:50px;  
+}
+
+.snacks
+{
+    font-size:70px;
+    padding:10px 130px;
+
+
+}    
+.span
+{
+    width:320px;
+    height:-10px;
+    background-color:green;
+    
+    margin:-10px 133px;
+    padding:0px 0px;
+}
+
+.toko
+{
+    font:20px;
+    margin:-20px 133px;
+}
+
+.img111
+{
+  float:right;  
+  margin:-350px 120px;
+
+}
+
+.back
+{
+    background-image:url(Images/3351014.jpg);
+    width:100%;
+    height:600px;
+    background-size:cover; 
+    margin-top:0px;
+}
+
+
+.organic
+{   
+    font-size:70px;
+    padding:230px 530px;
+}
+
+.GOOD
+{
+    
+    font-size:70px;
+    padding:-900px 0px;
+    margin-top:-230px;
+}
+
+.Do
+{
+    font-size:20px;
+    padding:10px 500px; 
+}
+
+.white
+{
+ border:20px solid orange;
+ border-radius:1000px ;
+ text-align:center;
+ margin:-500px 60px;
+ 
+
+
+}
+
+.hover
+{
+    padding:300px 100px;
+    font-size:70px;
+}
+
+.hov
+{
+    margin:-370px 100px;
+    float:right;
+    font-size:70px;
+}
+
+.auctor
+{
+    
+    font-size:25px;
+    margin:-150px 300px;
+}
+
+.frank
+{
+    font-size:35px;
+    margin:140px 300px;
+}
+
+.col
+{
+    font-size:70px;
+    padding:20px 530px;
+}
+
+.rol
+{
+    font-size:70px;
+}
+
+.ram
+{
+    font-size:20px;
+
+}
+
+.form
+{
+    background-color:white;
+    width:500px;
+    height:500px;
+    margin:50px 500px;
+    border:1px solid black;
+    border-radius:10px;
+}
+
+
+.mohit
+{
+    background-color:#F2F2F2;
+}
+
+.raj 
+{
+    width:100%;
+    padding:20px 40px;
+    font-size:22px;
+    box-sizing:border-box;
+    display: inline-block;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 4px solid orange;
+    border-radius: 20px;
+    box-sizing: border-box;
+  }
+
+  input[type=email], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 4px solid orange;
+    border-radius: 20px;
+    box-sizing: border-box;
+  }
+  
+  input[type=date], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 4px solid orange;
+    border-radius: 20px;
+    box-sizing: border-box;
+  }
+  input[type=button] {
+    width: 100%;
+    background-color:orange;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border:4px solid orange;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  
+  input[type=button]:hover {
+    background-color:#f7a540a1;
+  }
+
+  input[type=button]:focus 
+  {
+      background-color:#0CECDD;
+      font-size:30px;
+      border:8px solid #FF449F;
+      border-radius:50px;
+  }
+
+  .foot
+  {
+      background-color:#2B2B2B;
+      width:100%;
+      height:250px;
+
+  }
+
+  .Sample
+  {
+      color:white;
+      font-size:20px;
+      padding-top:50px;
+      padding-left:500px ;
+  }
+
+  .text
+  {
+      font-size:20px;
+      color:white;
+  }
+
+  .href
+  {
+      font-size:20px;
+      color:white;
+      padding-top:80px;
+      padding-left:500px;
+  }
